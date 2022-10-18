@@ -7,7 +7,7 @@ function Portfolio() {
 			name: 'Movie Madness',
 			description:
 				'an App that lets you look up movie titles and find its ratings and info for that movie ',
-			image: 'movie-madness\ proj-1.png',
+			image: 'movie-madness proj-1.png',
 			technologies: [
 				'HTML/CSS',
 				'Front End',
@@ -20,7 +20,7 @@ function Portfolio() {
 			name: 'PassWord Gen',
 			description:
 				'creates random passwords with what-ever symbol and number you desire ',
-			image: 'images/password-gen.png',
+			image: 'password-gen.png',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
@@ -33,7 +33,7 @@ function Portfolio() {
 			name: 'Code A Break',
 			description:
 				'Need help with coding this website helps you post Questions or how you feel about coding so others can help or support you.',
-			image: 'code-break\ proj-2.jpeg',
+			image: 'code-break proj-2.jpeg',
 			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
 			github: 'https://github.com/OhDangBro/Code-A-Break.git',
 			deployed: 'https://codeabreak.herokuapp.com/',
@@ -42,7 +42,7 @@ function Portfolio() {
 			name: 'Travel-Mate',
 			description:
 				'This website helps you plan and keep track of your vacation trips all in one location.',
-			image: 'travel-mate\ proj\ 3.png',
+			image: 'travel-mate proj 3.png',
 			technologies: [
 				'JavaScript',
 				'MongoDB',
