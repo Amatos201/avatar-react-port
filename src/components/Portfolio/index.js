@@ -57,7 +57,7 @@ function Portfolio() {
 			name: 'Weather Dashboard',
 			description:
 				'A weather dashboard that shows current weather and five-day weather forecast for any city.',
-			image: 'weather-dashboard-image.png',
+			image: 'weatherdash.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://amatos201.github.io/peanuts-weather-dash/',
 			
